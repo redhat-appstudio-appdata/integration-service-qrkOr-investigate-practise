@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: integration-service
     app.kubernetes.io/part-of: integration-service
-  name: integration-serviceeagu
+  name: integration-service6qna
 spec:
   port:
     targetPort: 8080
