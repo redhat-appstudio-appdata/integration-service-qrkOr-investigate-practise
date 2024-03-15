@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: integration-service
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhtap-integration-tenant/integration-service/integration-service@sha256:e91bfcbcfef76f0b34a51061ca0db4b5b76c25c109216cd7a4ccc1434adc7f9d
+      - image: quay.io/redhat-user-workloads/rhtap-integration-tenant/integration-service/integration-service@sha256:b1f9205085cfe263a3b4d4410a66f54abb6e1b55cae8d7db4b83ae502c356fb4
         imagePullPolicy: Always
         name: container-image
         ports:
