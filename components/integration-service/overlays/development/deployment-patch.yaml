@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhtap-integration-tenant/integration-service/integration-service@sha256:5bddeab161d7dfc4b3f6d7dc17d869a9e12a7dda2f8a56e5eaea4b2be3bf66f5
+      - image: quay.io/redhat-user-workloads/rhtap-integration-tenant/integration-service/integration-service@sha256:d71dd01f2221680f9493e5e25196873bb58112988328853bcf15355bc5d6bda2
         name: container-image
         resources: {}
 status: {}
